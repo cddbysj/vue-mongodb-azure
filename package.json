@@ -1,0 +1,16 @@
+{
+  "name": "vue-mongodb-azure",
+  "version": "1.0.0",
+  "description": "This is a project to help get started with Mongoose and Azure Cosmos DB for MongoDB API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "mongoose": "^5.6.2"
+  }
+}
